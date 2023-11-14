@@ -12,6 +12,7 @@
 *.dot
 *.bat
 *.metallib
+*.dSYM
 .DS_Store
 .build/
 .cache/
